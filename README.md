@@ -7,3 +7,5 @@ Key Steps:
 - Data Preprocessing: This step involved handling missing values and encoding categorical variables. We also calculated 'Age_of_Game' and dropped unnecessary columns.
 - Model Training: Using Linear Regression, we trained models to predict sales in different regions (NA, EU, JP, Other) as well as aggregated global sales.
 - Model Evaluation: We evaluated the models using Mean Squared Error (MSE) to ensure the accuracy of our predictions.
+
+This is one of my tasks as a Data Science Intern at the virtual internship from **Asterisc Technocrat** [Asterisc Technocrat]([URL](https://www.linkedin.com/company/asterisc-technocrat/)https://www.linkedin.com/company/asterisc-technocrat/).
